@@ -1,0 +1,15 @@
+C:\Users\MattieD\source\repos\roshambo\roshambo\bin\Debug\net8.0\roshambo.exe
+C:\Users\MattieD\source\repos\roshambo\roshambo\bin\Debug\net8.0\roshambo.deps.json
+C:\Users\MattieD\source\repos\roshambo\roshambo\bin\Debug\net8.0\roshambo.runtimeconfig.json
+C:\Users\MattieD\source\repos\roshambo\roshambo\bin\Debug\net8.0\roshambo.dll
+C:\Users\MattieD\source\repos\roshambo\roshambo\bin\Debug\net8.0\roshambo.pdb
+C:\Users\MattieD\source\repos\roshambo\roshambo\obj\Debug\net8.0\roshambo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MattieD\source\repos\roshambo\roshambo\obj\Debug\net8.0\roshambo.AssemblyInfoInputs.cache
+C:\Users\MattieD\source\repos\roshambo\roshambo\obj\Debug\net8.0\roshambo.AssemblyInfo.cs
+C:\Users\MattieD\source\repos\roshambo\roshambo\obj\Debug\net8.0\roshambo.csproj.CoreCompileInputs.cache
+C:\Users\MattieD\source\repos\roshambo\roshambo\obj\Debug\net8.0\roshambo.sourcelink.json
+C:\Users\MattieD\source\repos\roshambo\roshambo\obj\Debug\net8.0\roshambo.dll
+C:\Users\MattieD\source\repos\roshambo\roshambo\obj\Debug\net8.0\refint\roshambo.dll
+C:\Users\MattieD\source\repos\roshambo\roshambo\obj\Debug\net8.0\roshambo.pdb
+C:\Users\MattieD\source\repos\roshambo\roshambo\obj\Debug\net8.0\roshambo.genruntimeconfig.cache
+C:\Users\MattieD\source\repos\roshambo\roshambo\obj\Debug\net8.0\ref\roshambo.dll
